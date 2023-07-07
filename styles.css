@@ -1,4 +1,9 @@
 /*  your css code here. If applicable */
+.cards{
+	display:flex;
+	flex-wrap:wrap;
+	align-items:flex-end;
+}
 img{
 	max-width:25vw;
 	margin:10px;
